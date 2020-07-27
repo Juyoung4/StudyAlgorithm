@@ -14,10 +14,10 @@
  - ✔ 10. [서울에서 김서방 찾기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/10.py) <br>
  - ✔ 11. [가운데 글자 가져오기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/11.py) <br>
  - ✔ 12. [같은 숫자는 싫어](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/12.py) <br>
- - 문자열 내 마음대로 정렬하기 <br>
- - 문자열 내 p와 y의 개수 <br>
- - 문자열을 정수로 바꾸기 <br>
- - 문자열 다루기 기본 <br>
+ - ✔ 13. [문자열 내 마음대로 정렬하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/13.py) <br>
+ - ✔ 14. [문자열 내 p와 y의 개수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/14.py) <br>
+ - ✔ 15. [문자열을 정수로 바꾸기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/15.py) <br>
+ - ✔ 16. [문자열 다루기 기본](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/16.py) <br>
  - 이상한 문자 만들기 <br>
  - x만큼 간격이 있는 n개의 숫자 <br>
  - 핸드폰 번호 가리기 <br>
