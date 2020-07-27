@@ -10,10 +10,10 @@
  - ✔ 6. [수박수박수박수박수박수?](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/6.py) <br>
  - ✔ 7. [자릿수 더하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/7.py) <br>
  - ✔ 8. [나누어 떨어지는 숫자 배열](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/8.py) <br>
- - 제일 작은 수 제거하기 <br>
- - 서울에서 김서방 찾기 <br>
- - 가운데 글자 가져오기 <br>
- - 같은 숫자는 싫어 <br>
+ - ✔ 9. [제일 작은 수 제거하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/9.py) <br>
+ - ✔ 10. [서울에서 김서방 찾기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/10.py) <br>
+ - ✔ 11. [가운데 글자 가져오기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/11.py) <br>
+ - ✔ 12. [같은 숫자는 싫어](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/12.py) <br>
  - 문자열 내 마음대로 정렬하기 <br>
  - 문자열 내 p와 y의 개수 <br>
  - 문자열을 정수로 바꾸기 <br>
