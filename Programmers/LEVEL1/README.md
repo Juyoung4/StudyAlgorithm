@@ -3,12 +3,12 @@
 ### Python <br>
 
  - ✔ 1. [두 정수 사이의 합](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/1.py) <br>
- - ✔ 2. [문자열 내림차순으로 배치하기]() <br>
- - ✔ 3. [평균 구하기]() <br>
- - ✔ 4. [약수의 합]() <br>
- - ✔ 5. [짝수와 홀수]() <br>
- - ✔ 6. [수박수박수박수박수박수?]() <br>
- - ✔ 7. [자릿수 더하기]() <br>
+ - ✔ 2. [문자열 내림차순으로 배치하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/2.py <br>
+ - ✔ 3. [평균 구하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/3.py) <br>
+ - ✔ 4. [약수의 합](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/4.py) <br>
+ - ✔ 5. [짝수와 홀수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/5.py) <br>
+ - ✔ 6. [수박수박수박수박수박수?](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/6.py) <br>
+ - ✔ 7. [자릿수 더하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/7.py) <br>
  - 나누어 떨어지는 숫자 배열 <br>
  - 제일 작은 수 제거하기 <br>
  - 서울에서 김서방 찾기 <br>
