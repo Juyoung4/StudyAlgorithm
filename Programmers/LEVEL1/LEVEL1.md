@@ -1,6 +1,6 @@
 ## LEVEL1
 
-Python <br>
+###Python <br>
 
  ✔ 1. [두 정수 사이의 합](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/1.py) <br>
  문자열 내림차순으로 배치하기 <br>
