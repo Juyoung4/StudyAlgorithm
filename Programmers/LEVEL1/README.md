@@ -18,12 +18,12 @@
  - ✔ 14. [문자열 내 p와 y의 개수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/14.py) <br>
  - ✔ 15. [문자열을 정수로 바꾸기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/15.py) <br>
  - ✔ 16. [문자열 다루기 기본](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/16.py) <br>
- - 이상한 문자 만들기 <br>
- - x만큼 간격이 있는 n개의 숫자 <br>
- - 핸드폰 번호 가리기 <br>
- - 직사각형 별찍기 <br>
- - 정수 내림차순으로 배치하기 <br>
- - 자연수 뒤집어 배열로 만들기 <br>
+ - ✔ 17. [이상한 문자 만들기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/17.py) <br>
+ - ✔ 18. [x만큼 간격이 있는 n개의 숫자](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/18.py) <br>
+ - ✔ 19. [핸드폰 번호 가리기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/19.py) <br>
+ - ✔ 20. [직사각형 별찍기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/20.py) <br>
+ - ✔ 21. [정수 내림차순으로 배치하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/21.py) <br>
+ - ✔ 22. [자연수 뒤집어 배열로 만들기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/22.py) <br>
  - 하샤드 수 <br>
  - 정수 제곱근 판별 <br>
  - 소수 찾기 <br>
