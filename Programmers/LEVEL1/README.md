@@ -25,10 +25,10 @@
  - ✔ 21. [정수 내림차순으로 배치하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/21.py) <br>
  - ✔ 22. [자연수 뒤집어 배열로 만들기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/22.py) <br>
  - ✔ 23. [하샤드 수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/23.py) <br>
- - 정수 제곱근 판별 <br>
- - 소수 찾기 <br>
- - 최대공약수와 최소공배수 <br>
- - 콜라츠 추측 <br>
+ - ✔ 24. [정수 제곱근 판별](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/24.py) <br>
+ - ✔ 25. [소수 찾기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/25.py) <br>
+ - ✔ 26. [최대공약수와 최소공배수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/26.py) <br>
+ - ✔ 27. [콜라츠 추측](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/27.py) <br>
  - 행렬의 덧셈 <br>
  - 2016년 <br>
  - 시저 암호 <br>
