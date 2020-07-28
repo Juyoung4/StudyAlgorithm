@@ -24,7 +24,7 @@
  - ✔ 20. [직사각형 별찍기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/20.py) <br>
  - ✔ 21. [정수 내림차순으로 배치하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/21.py) <br>
  - ✔ 22. [자연수 뒤집어 배열로 만들기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/22.py) <br>
- - 하샤드 수 <br>
+ - ✔ 23. [하샤드 수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/23.py) <br>
  - 정수 제곱근 판별 <br>
  - 소수 찾기 <br>
  - 최대공약수와 최소공배수 <br>
