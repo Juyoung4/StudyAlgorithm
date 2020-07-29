@@ -33,8 +33,8 @@
  - ✔ 29. [2016년](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/29.py) <br>
  - ✔ 30. [시저 암호](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/30.py) <br>
  - ✔ 31. [k번째 수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/31.py) <br>
- - 완주하지 못한 선수 <br>
- - 모의고사 <br>
+ - ✔ 32. [완주하지 못한 선수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/32.py) <br>
+ - ✔ 33. [모의고사](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/33.py) <br>
  - 체육복 <br>
  - 예산 <br>
  - [1차]비밀지도 <br>
