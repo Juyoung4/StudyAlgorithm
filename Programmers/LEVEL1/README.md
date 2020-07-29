@@ -29,10 +29,10 @@
  - ✔ 25. [소수 찾기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/25.py) <br>
  - ✔ 26. [최대공약수와 최소공배수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/26.py) <br>
  - ✔ 27. [콜라츠 추측](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/27.py) <br>
- - 행렬의 덧셈 <br>
- - 2016년 <br>
- - 시저 암호 <br>
- - k번째 수 <br>
+ - ✔ 28. [행렬의 덧셈](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/28.py) <br>
+ - ✔ 29. [2016년](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/29.py) <br>
+ - ✔ 30. [시저 암호](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/30.py) <br>
+ - ✔ 31. [k번째 수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/31.py) <br>
  - 완주하지 못한 선수 <br>
  - 모의고사 <br>
  - 체육복 <br>
