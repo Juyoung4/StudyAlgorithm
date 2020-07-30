@@ -38,7 +38,7 @@
  - ✔ 34. [체육복](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/34.py) <br>
  - ✔ 35. [예산](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/35.py) <br>
  - ✔ 36. [(1차)비밀지도](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/36.py) <br>
- - (2020 카카오 인턴)키패드 누르기 <br>
- - 2018 KAKAO BLIND RECRUITMENT [1차] 다트 게임 <br>
- - 2019 카카오 개발자 겨울 인턴십 크레인 인형뽑기 게임 <br>
+ - ✔ 37. [(2020 카카오 인턴)키패드 누르기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/37.py) <br>
+ - ✔ 38. [2018 KAKAO BLIND RECRUITMENT [1차] 다트 게임](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/38.py) <br>
+ - ✔ 39. [2019 카카오 개발자 겨울 인턴십 크레인 인형뽑기 게임](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/39.py) <br>
  - 2019 KAKAO BLIND RECRUITMENT 실패율 <br>
