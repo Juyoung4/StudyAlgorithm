@@ -2,7 +2,7 @@
 
 ### Python <br>
 
- - 1.  [전화번호 목록]
+ - 1.  [전화번호 목록](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/1.py)
  - 2.  [위장]
  - 3.  [기능 개발]
  - 4.  [프린터]
