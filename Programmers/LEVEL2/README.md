@@ -3,7 +3,7 @@
 ### Python <br>
 
  - 1.[전화번호 목록](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/1.py)
- - 2.[위장]
+ - 2.[위장](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/2.py)
  - 3.[기능 개발]
  - 4.[프린터]
  - 5.[가장 큰 수]
