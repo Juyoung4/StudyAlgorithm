@@ -26,23 +26,25 @@ def bombs(tgrid, level, cur_x, cur_y):
     temps = []
     count = 0
     temps.append((cur_x, cur_y))
-    for d in range(4):
-        for _ in range(level):
-            cur_x += dx[d]
-            cur_y += dy[d]
-            if inRrange(cur_x, cur_y):
-                temps.append((cur_x, cur_y))
+    for i in range(1,level+1):
+        for j in range(4):
+            if cur_x + dx[j]*i in range(N) and cur_y + dy[j]*i in range(N):
+                temps.append((cur_x + dx[j]*i, cur_y + dy[j]*i))
+
     for col in range(N):
         temp = []
         for row in range(N):
             if (row, col) not in temps:
                 temp.append(tgrid[row][col])
+        print("temp : ",temp)
+        print("or cgrid : ",cgrid)
         for row in range(len(temp)):
             cgrid[-(row+1)][col] = temp[-(row+1)]
             
             if -(row+2) >= -(len(temp)):
                 if temp[-(row+2)] == temp[-(row+1)]:
                     count += 1
+        print(cgrid)
     for x in range(N):
         for y in range(N):
             count += count_pair(x, y, cgrid)

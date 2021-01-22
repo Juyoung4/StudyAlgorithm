@@ -1,23 +1,9 @@
-# n = 5
-# pinballMap = """1 1 1 1 1
-# 1 1 1 1 1
-# 1 1 1 1 1
-# 1 1 1 1 1
-# 1 1 1 1 1"""
-
-# 입력 string map을 이중배열 map으로 변환
+# 입력
 n = int(input())
 ballmap = [list(map(int, input().split())) for _ in range(n)]
 
-# (y, x)
-direction = [[0,1], [0,-1], [1,0], [-1,0]] # 동, 서, 남, 북
-answer = n+1
-count = 0
-
-
 def nextPosition(current_pos, direct):    
     global direction, count
-#     print(current_pos)
     
     next_pos = [current_pos[0] + direct[0], current_pos[1] + direct[1]]
     
@@ -45,12 +31,14 @@ def nextPosition(current_pos, direct):
             
     return next_pos, next_dir
 
+direction = [[0,1], [0,-1], [1,0], [-1,0]] # 동, 서, 남, 북
+answer = 0
+count = 0
+
 start_positions = [[-1, i] for i in range(n)]
 start_positions.extend([[n, i] for i in range(n)])
 start_positions.extend([[i, -1] for i in range(n)])
 start_positions.extend([[i, n] for i in range(n)])
-start_positions = [[4,-1]]
-
 
 for start in start_positions:
     # 시작시 방향 설정
@@ -69,5 +57,5 @@ for start in start_positions:
     # 최댓값 update
     if count > answer: answer = count
     count = 0
-# print(current)
+    
 print(answer)

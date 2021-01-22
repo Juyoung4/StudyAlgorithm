@@ -1,4 +1,4 @@
-from collections import defaultdict
+import logging
 N, bN, t = map(int, input().split())
 balls = []
 
@@ -14,13 +14,14 @@ for i in range(bN):
     else: d = 0
     balls.append([int(r)-1, int(c)-1, d, int(w), i])
 
+def inRrange(c, r):
+    return 0 <= c < N and 0 <= r < N
+
 while t:
-    #print("ball : ", balls)
-    # ball move
     check_ball = dict()
     count = 0
     for ball in balls:
-        if ((ball[0] + dx[ball[2]]) in range(N)) and ((ball[1] + dy[ball[2]]) in range(N)):
+        if inRrange(ball[0]+dx[ball[2]], ball[1]+dy[ball[2]]):
             ball[0] += dx[ball[2]]
             ball[1] += dy[ball[2]]
         else:
@@ -33,22 +34,21 @@ while t:
             check_ball[temp] = [ball[4]]
         else:
             check_ball[temp].append(ball[4])
-    del temp
-    # ball check
-    # print("ball move : ",balls)
-    # print(check_ball)
-    temp, check, temp2 = [], False, []
+
+    temp2, check, temp3 = [], False, []
     for key, value in check_ball.items():
         if len(value) > 1:
             w, idx = 0, max(value)
-            d = balls[idx][2]
-            for j in value:
-                w += balls[j][3]
-                temp.append(j)
-            temp2.append([key[0], key[1], d, w, idx])
+            for ball in balls:
+                if ball[4] in value:
+                    temp2.append(ball[4])
+                    w += ball[3]
+                if ball[4] == idx: d = ball[2]
+            temp3.append([key[0], key[1], d, w, idx])
             check = True
     if check: 
-        balls = [balls[i] for i in range(len(balls)) if i not in temp] + temp2
+        balls = [balls[i] for i in range(len(balls)) if i not in temp2] + temp3
+    
     t -= 1
 
 balls.sort(key=lambda x: -x[3])
