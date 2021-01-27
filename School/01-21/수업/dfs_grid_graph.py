@@ -26,3 +26,4 @@ def DFS(x, y):
 visited[0][0] = 1
 DFS(start[0], start[1])
 print(visited[N-1][M-1])
+
