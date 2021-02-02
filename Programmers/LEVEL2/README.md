@@ -6,8 +6,8 @@
  - 2.[위장](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/2.py)
  - 3.[기능 개발](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/3.py)
  - 4.[프린터](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/4.py)
- - 5.[가장 큰 수]
- - 6.[다리를 지나는 트럭]
+ - 5.[가장 큰 수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/5.py)
+ - 6.[다리를 지나는 트럭](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/6.py)
  - 7.[타켓넘버]
  - 8.[피보나치 수]
  - 9.[H-Index]
