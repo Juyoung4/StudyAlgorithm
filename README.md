@@ -6,4 +6,4 @@
 |:--:|:--:|--|
 [Programmers](https://programmers.co.kr/learn/challenges?tab=all_challenges)|[Inflearn](https://www.inflearn.com/)|미정|
 
-👉 사용언어 : Python , C++
+👉 사용언어 : Python 
