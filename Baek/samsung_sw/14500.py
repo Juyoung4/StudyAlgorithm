@@ -1,8 +1,8 @@
 #테트로미노 https://www.acmicpc.net/problem/14500
 import sys
 
-# version 1 : 시뮬 -> 시간 너무 오래 걸림
-"""
+# version 1 : 시뮬 
+
 if __name__ == "__main__":
     N, M = map(int, sys.stdin.readline().split())
     grids = [list(map(int, sys.stdin.readline().split())) for _ in range(N)]
@@ -43,7 +43,7 @@ if __name__ == "__main__":
                     #print("check : ", (i, j), d, max_)
     
     print(max_)
-"""
+
 
 max_ = 0
 dirs = [(0, 1), (0, -1), (1, 0), (-1, 0)]
