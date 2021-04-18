@@ -23,4 +23,5 @@
 |드래곤커브|[15685](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/samsung_sw/15685.py)|||
 |치킨배달|[15686](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/samsung_sw/15686.py)|||
 |큐빙|[5373](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/samsung_sw/5373.py)|||
-|사다리조작|[15684](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/samsung_sw/15684.py)|||
+|어른상어|[19237](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/samsung_sw/19237.py)|||
+|나무재테크|[16235](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/samsung_sw/16235.py)|||
