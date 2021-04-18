@@ -14,8 +14,8 @@
 |주사위굴리기|[14499](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/samsung_sw/14499.py)|✅||
 |경사로|[14890](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/samsung_sw/14890.py)|✅||
 |이차원배열과 연산|[17140](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/samsung_sw/17140.py)|✅||
-|테트로미노|[14500](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/samsung_sw/14500.py)|||
-|퇴사|[14501](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/samsung_sw/14501.py)|||
-|로봇청소기|[14503](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/samsung_sw/14503.py)|||
-|톱니바퀴|[14891](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/samsung_sw/14891.py)|||
-|감시|[15683](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/samsung_sw/15683.py)|||
+|테트로미노|[14500](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/samsung_sw/14500.py)|✅||
+|퇴사|[14501](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/samsung_sw/14501.py)|✅||
+|로봇청소기|[14503](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/samsung_sw/14503.py)|✅||
+|톱니바퀴|[14891](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/samsung_sw/14891.py)|✅||
+|감시|[15683](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/samsung_sw/15683.py)|✅||
