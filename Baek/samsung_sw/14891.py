@@ -5,10 +5,9 @@ def change(gears, ts):
     for i in range(4):
         if ts[i] == 0: continue
         elif ts[i] == 1: # 시계방향 회전
-            temp = gears[i][-1]+gears[i][:-1]
+            gears[i] = gears[i][-1]+gears[i][:-1]
         else: # 반시계 방향 회전
-            temp = gears[i][1:]+gears[i][0]
-        gears[i] = temp
+            gears[i] = gears[i][1:]+gears[i][0]
     return gears
 
 def turn(gears, turns, turn_num):
@@ -25,17 +24,17 @@ def turn(gears, turns, turn_num):
         elif cur_num == 1:
             if gears[cur_num-1][2] != gears[cur_num][6]: 
                 ts[cur_num-1] = ts[cur_num]*(-1)
-                if gears[cur_num-2][2] != gears[cur_num-1][6]: 
-                    ts[cur_num-2] = ts[cur_num-1]*(-1)
             if gears[cur_num][2] != gears[cur_num+1][6]:
                 ts[cur_num+1] = ts[cur_num]*(-1)
+                if gears[cur_num+1][2] != gears[cur_num+2][6]:
+                    ts[cur_num+2] = ts[cur_num+1]*(-1)
         elif cur_num == 2:
             if gears[cur_num-1][2] != gears[cur_num][6]:
                 ts[cur_num-1] = ts[cur_num]*(-1)
+                if gears[cur_num-2][2] != gears[cur_num-1][6]: 
+                    ts[cur_num-2] = ts[cur_num-1]*(-1)
             if gears[cur_num][2] != gears[cur_num+1][6]:
-                ts[cur_num+1] = ts[cur_num]*(-1)
-                if ts[cur_num-1] and gears[cur_num+1][2] != gears[cur_num+2][6]:
-                    ts[cur_num+2] = ts[cur_num+1]*(-1)
+                ts[cur_num+1] = ts[cur_num]*(-1) 
         else:
             for j in range(3, 0, -1):
                 if gears[j-1][2] != gears[j][6]: # 전이 회전하고 현재 마주보는게 같으면
