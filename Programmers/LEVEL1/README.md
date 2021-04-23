@@ -42,3 +42,4 @@
  - ✔ 38. [2018 KAKAO BLIND RECRUITMENT [1차] 다트 게임](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/38.py) <br>
  - ✔ 39. [2019 카카오 개발자 겨울 인턴십 크레인 인형뽑기 게임](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/39.py) <br>
  - ✔ 40. [2019 KAKAO BLIND RECRUITMENT 실패율](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/40.py) <br>
+ - ✔ 41. [2021 KAKAO BLIND RECRUITMENT 신규아이디 추천](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/41.py) <br>
