@@ -48,5 +48,5 @@
  - 44.[(2018 KAKAO BLIND RECRUITMENT) [3차] n진수 게임]
  - 45.[(2018 KAKAO BLIND RECRUITMENT) [3차] 압축]
  - 46.[(2018 KAKAO BLIND RECRUITMENT) [3차]파일명 정렬]
- - 47.[(2018 KAKAO BLIND RECRUITMENT) [3차] 방금그곡]
+ - 47.[(2018 KAKAO BLIND RECRUITMENT) [3차] 방금그곡](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/47.py)
  - 48.[(카카오 인턴쉽(2020)) 수식 최대화]
