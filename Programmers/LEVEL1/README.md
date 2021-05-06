@@ -2,44 +2,51 @@
 
 ### Python <br>
 
- - ✔ 1. [두 정수 사이의 합](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/1.py) <br>
- - ✔ 2. [문자열 내림차순으로 배치하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/2.py) <br>
- - ✔ 3. [평균 구하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/3.py) <br>
- - ✔ 4. [약수의 합](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/4.py) <br>
- - ✔ 5. [짝수와 홀수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/5.py) <br>
- - ✔ 6. [수박수박수박수박수박수?](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/6.py) <br>
- - ✔ 7. [자릿수 더하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/7.py) <br>
- - ✔ 8. [나누어 떨어지는 숫자 배열](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/8.py) <br>
- - ✔ 9. [제일 작은 수 제거하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/9.py) <br>
- - ✔ 10. [서울에서 김서방 찾기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/10.py) <br>
- - ✔ 11. [가운데 글자 가져오기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/11.py) <br>
- - ✔ 12. [같은 숫자는 싫어](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/12.py) <br>
- - ✔ 13. [문자열 내 마음대로 정렬하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/13.py) <br>
- - ✔ 14. [문자열 내 p와 y의 개수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/14.py) <br>
- - ✔ 15. [문자열을 정수로 바꾸기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/15.py) <br>
- - ✔ 16. [문자열 다루기 기본](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/16.py) <br>
- - ✔ 17. [이상한 문자 만들기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/17.py) <br>
- - ✔ 18. [x만큼 간격이 있는 n개의 숫자](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/18.py) <br>
- - ✔ 19. [핸드폰 번호 가리기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/19.py) <br>
- - ✔ 20. [직사각형 별찍기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/20.py) <br>
- - ✔ 21. [정수 내림차순으로 배치하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/21.py) <br>
- - ✔ 22. [자연수 뒤집어 배열로 만들기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/22.py) <br>
- - ✔ 23. [하샤드 수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/23.py) <br>
- - ✔ 24. [정수 제곱근 판별](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/24.py) <br>
- - ✔ 25. [소수 찾기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/25.py) <br>
- - ✔ 26. [최대공약수와 최소공배수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/26.py) <br>
- - ✔ 27. [콜라츠 추측](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/27.py) <br>
- - ✔ 28. [행렬의 덧셈](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/28.py) <br>
- - ✔ 29. [2016년](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/29.py) <br>
- - ✔ 30. [시저 암호](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/30.py) <br>
- - ✔ 31. [k번째 수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/31.py) <br>
- - ✔ 32. [완주하지 못한 선수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/32.py) <br>
- - ✔ 33. [모의고사](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/33.py) <br>
- - ✔ 34. [체육복](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/34.py) <br>
- - ✔ 35. [예산](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/35.py) <br>
- - ✔ 36. [(1차)비밀지도](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/36.py) <br>
- - ✔ 37. [(2020 카카오 인턴)키패드 누르기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/37.py) <br>
- - ✔ 38. [2018 KAKAO BLIND RECRUITMENT [1차] 다트 게임](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/38.py) <br>
- - ✔ 39. [2019 카카오 개발자 겨울 인턴십 크레인 인형뽑기 게임](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/39.py) <br>
- - ✔ 40. [2019 KAKAO BLIND RECRUITMENT 실패율](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/40.py) <br>
- - ✔ 41. [2021 KAKAO BLIND RECRUITMENT 신규아이디 추천](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/41.py) <br>
+ - ✔ 1. [두 정수 사이의 합](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/1.py) <br>
+ - ✔ 2. [문자열 내림차순으로 배치하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/2.py) <br>
+ - ✔ 3. [평균 구하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/3.py) <br>
+ - ✔ 4. [약수의 합](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/4.py) <br>
+ - ✔ 5. [짝수와 홀수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/5.py) <br>
+ - ✔ 6. [수박수박수박수박수박수?](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/6.py) <br>
+ - ✔ 7. [자릿수 더하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/7.py) <br>
+ - ✔ 8. [나누어 떨어지는 숫자 배열](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/8.py) <br>
+ - ✔ 9. [제일 작은 수 제거하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/9.py) <br>
+ - ✔ 10. [서울에서 김서방 찾기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/10.py) <br>
+ - ✔ 11. [가운데 글자 가져오기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/11.py) <br>
+ - ✔ 12. [같은 숫자는 싫어](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/12.py) <br>
+ - ✔ 13. [문자열 내 마음대로 정렬하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/13.py) <br>
+ - ✔ 14. [문자열 내 p와 y의 개수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/14.py) <br>
+ - ✔ 15. [문자열을 정수로 바꾸기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/15.py) <br>
+ - ✔ 16. [문자열 다루기 기본](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/16.py) <br>
+ - ✔ 17. [이상한 문자 만들기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/17.py) <br>
+ - ✔ 18. [x만큼 간격이 있는 n개의 숫자](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/18.py) <br>
+ - ✔ 19. [핸드폰 번호 가리기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/19.py) <br>
+ - ✔ 20. [직사각형 별찍기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/20.py) <br>
+ - ✔ 21. [정수 내림차순으로 배치하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/21.py) <br>
+ - ✔ 22. [자연수 뒤집어 배열로 만들기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/22.py) <br>
+ - ✔ 23. [하샤드 수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/23.py) <br>
+ - ✔ 24. [정수 제곱근 판별](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/24.py) <br>
+ - ✔ 25. [소수 찾기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/25.py) <br>
+ - ✔ 26. [최대공약수와 최소공배수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/26.py) <br>
+ - ✔ 27. [콜라츠 추측](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/27.py) <br>
+ - ✔ 28. [행렬의 덧셈](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/28.py) <br>
+ - ✔ 29. [2016년](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/29.py) <br>
+ - ✔ 30. [시저 암호](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/30.py) <br>
+ - ✔ 31. [k번째 수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/31.py) <br>
+ - ✔ 32. [완주하지 못한 선수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/32.py) <br>
+ - ✔ 33. [모의고사](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/33.py) <br>
+ - ✔ 34. [체육복](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/34.py) <br>
+ - ✔ 35. [예산](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/35.py) <br>
+ - ✔ 36. [(1차)비밀지도](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/36.py) <br>
+ - ✔ 37. [(2020 카카오 인턴)키패드 누르기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/37.py) <br>
+ - ✔ 38. [2018 KAKAO BLIND RECRUITMENT [1차] 다트 게임](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/38.py) <br>
+ - ✔ 39. [2019 카카오 개발자 겨울 인턴십 크레인 인형뽑기 게임](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/39.py) <br>
+ - ✔ 40. [2019 KAKAO BLIND RECRUITMENT 실패율](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/40.py) <br>
+ - ✔ 41. [2021 KAKAO BLIND RECRUITMENT 신규아이디 추천](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/41.py) <br>
+  - ✔ 42. [월간 코드 챌린지 시즌1 내적](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/42.py) <br>
+  - ✔ 43. [찾아라 프로그래밍 마에스터 폰켓몬](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/43.py) <br>
+  - ✔ 44. [월간 코드 챌린지 시즌2 음양 더하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/44.py) <br>
+  - ✔ 45. [2021 Dev-Matching 로또의 최고 순위와 최저 순위](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/45.py) <br>
+  - ✔ 46. [Summer/Winter Coding 소수 만들기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/46.py) <br>
+  - ✔ 47. [월간 코드 챌린지 시즌1 3진법 뒤집기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/47.py) <br>
+  - ✔ 48. [월간 코드 챌린지 시즌1 두 개 뽑아서 더하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/48.py) <br>
