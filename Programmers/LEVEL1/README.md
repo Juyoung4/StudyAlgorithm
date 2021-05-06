@@ -49,4 +49,4 @@
   - ✔ 45. [2021 Dev-Matching 로또의 최고 순위와 최저 순위](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/45.py) <br>
   - ✔ 46. [Summer/Winter Coding 소수 만들기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/46.py) <br>
   - ✔ 47. [월간 코드 챌린지 시즌1 3진법 뒤집기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/47.py) <br>
-  - ✔ 48. [월간 코드 챌린지 시즌1 두 개 뽑아서 더하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/48.py) <br>
+  - ✔ 48. [월간 코드 챌린지 시즌1 두 개 뽑아서 더하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/48.py) <br> 
