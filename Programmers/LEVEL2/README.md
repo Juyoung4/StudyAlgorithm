@@ -37,7 +37,7 @@
  - 32.[(2017 팁스타운) 짝지어 제거하기]
  - 33.[(2017 팁스타운) 예상 대진표]
  - 34.[(찾아라 프로그래밍 마에스터) 폰켓몬]
- - 35.[(2020 KAKAO BLIND RECRUITMENT) 문자열 압축]
+ - 35.[(2020 KAKAO BLIND RECRUITMENT) 문자열 압축](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/35.py)
  - 36.[(2020 KAKAO BLIND RECRUITMENT) 괄호 변환]
  - 37.[(2019 KAKAO BLIND RECRUITMENT) 오픈채팅방]
  - 38.[(2019 KAKAO BLIND RECRUITMENT) 후보키]
@@ -47,6 +47,6 @@
  - 43.[(2018 KAKAO BLIND RECRUITMENT) [1차] 프렌즈4블록]
  - 44.[(2018 KAKAO BLIND RECRUITMENT) [3차] n진수 게임]
  - 45.[(2018 KAKAO BLIND RECRUITMENT) [3차] 압축]
- - 46.[(2018 KAKAO BLIND RECRUITMENT) [3차]파일명 정렬]
+ - 46.[(2018 KAKAO BLIND RECRUITMENT) [3차]파일명 정렬](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/46.py)
  - 47.[(2018 KAKAO BLIND RECRUITMENT) [3차] 방금그곡](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/47.py)
  - 48.[(카카오 인턴쉽(2020)) 수식 최대화](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/48.py)
