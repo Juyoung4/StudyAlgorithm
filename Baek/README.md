@@ -1,5 +1,7 @@
 ### BAEKJOON
-#### 삼성 SW 역량 테스트 기출문제
+
+<details>
+<summary>삼성 SW 역량 테스트 기출문제</summary>
 |문제|문제 번호 및 링크|CHECK1|CHECK2|
 |:--:|:--:|--|--|
 |2048(Easy)|[12100](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/samsung_sw/12100.py)|✅||
@@ -25,3 +27,4 @@
 |어른상어|[19237](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/samsung_sw/19237.py)|✅||
 |나무재테크|[16235](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/samsung_sw/16235.py)|✅||
 |청소년상어|[19236](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/samsung_sw/19236.py)|✅||
+</details>
