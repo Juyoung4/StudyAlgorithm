@@ -30,3 +30,17 @@
 |청소년상어|[19236](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/samsung_sw/19236.py)|✅||
 
 </details>
+
+
+<details>
+<summary>신한은행 테스트 기출문제</summary>
+
+|문제|문제 번호 및 링크|CHECK1|
+|:--:|:--:|:--:|
+|가장 가까운 공통 조상|[3584](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/sin/3584.py)|✅|
+|나이 순 정렬|[10814](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/sin/10814.py)|✅|
+|문자 해독|[1593](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/sin/1593.py)|✅|
+|집합의 표현|[1717](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/sin/1717.py)|✅|
+|카드 놓기|[5568](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/sin/5568.py)|✅|
+
+</details>
