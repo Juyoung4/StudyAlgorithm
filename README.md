@@ -13,4 +13,6 @@
 * README : 🎊 [README] UPDATE
 * Programmers : 📘 [Programmers - LEVEL?] SOLVE
 * Baekjoon : 📗 [Baekjoon - 12345] SOLVE
+* Kakao : 📒 [Kakao - 날짜] SOLVE
+* Inflearn : 📕 [Inflearn - ?일차 - ?번] SOLVE
 * COS PRO : 📢 [COS PRO - ?차] SOLVE
