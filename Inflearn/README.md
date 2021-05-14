@@ -57,6 +57,7 @@
 |문제|문제 번호 및 링크|
 |:--:|:--:|
 |1|[이분 검색](https://github.com/Juyoung4/StudyAlgorithm/tree/master/Inflearn/4%EC%9D%BC%EC%B0%A8/1.py)|
-
+|2|[결정 알고리즘](https://github.com/Juyoung4/StudyAlgorithm/tree/master/Inflearn/4%EC%9D%BC%EC%B0%A8/2.py)|
+|3|[결정 알고리즘](https://github.com/Juyoung4/StudyAlgorithm/tree/master/Inflearn/4%EC%9D%BC%EC%B0%A8/3.py)|
 
 </details>
