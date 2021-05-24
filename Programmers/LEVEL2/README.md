@@ -46,7 +46,10 @@
  - 42.[(2018 KAKAO BLIND RECRUITMENT) [1차]뉴스 클러스터링]
  - 43.[(2018 KAKAO BLIND RECRUITMENT) [1차] 프렌즈4블록]
  - 44.[(2018 KAKAO BLIND RECRUITMENT) [3차] n진수 게임]
- - 45.[(2018 KAKAO BLIND RECRUITMENT) [3차] 압축]
+ - 45.[(2018 KAKAO BLIND RECRUITMENT) [3차] 압축](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/45.py)
  - 46.[(2018 KAKAO BLIND RECRUITMENT) [3차]파일명 정렬](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/46.py)
  - 47.[(2018 KAKAO BLIND RECRUITMENT) [3차] 방금그곡](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/47.py)
  - 48.[(카카오 인턴쉽(2020)) 수식 최대화](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/48.py)
+ - 49.[(2021 Dev-Matching 웹 백엔드) 행렬 테두리 회전하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/49.py)
+ - 50.[(2021 KAKAO BLIND RECRUITMENT) 메뉴 리뉴얼](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/50.py)
+ - 51.[(2021 Dev-Matching 웹 백엔드) 수식 최대화]
