@@ -10,7 +10,7 @@
  - 6.[다리를 지나는 트럭](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/6.py)
  - 7.[타켓넘버](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/7.py)
  - 8.[피보나치 수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/8.py)
- - 9.[H-Index]
+ - 9.[H-Index](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/9.py)
  - 10.[주식 가격]
  - 11.[124 나라의 숫자]
  - 12.[더 맵게]
