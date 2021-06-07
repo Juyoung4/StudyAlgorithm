@@ -50,3 +50,22 @@
   - ✔ 46. [Summer/Winter Coding 소수 만들기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/46.py) <br>
   - ✔ 47. [월간 코드 챌린지 시즌1 3진법 뒤집기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/47.py) <br>
   - ✔ 48. [월간 코드 챌린지 시즌1 두 개 뽑아서 더하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/48.py) <br> 
+
+  
+
+  ### JAVA <br>
+
+ - ✔ 1. [두 정수 사이의 합](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution1.java) <br>
+ - ✔ 2. [문자열 내림차순으로 배치하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution2.java) <br>
+ - ✔ 3. [평균 구하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/java/solution3.java) <br>
+ - ✔ 4. [약수의 합](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution4.java) <br>
+ - ✔ 5. [짝수와 홀수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution5.java) <br>
+ - ✔ 6. [수박수박수박수박수박수?](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution6.java) <br>
+ - ✔ 7. [자릿수 더하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution7.java) <br>
+ - ✔ 8. [나누어 떨어지는 숫자 배열](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution8.java) <br>
+ - ✔ 9. [제일 작은 수 제거하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution9.java) <br>
+ - ✔ 10. [서울에서 김서방 찾기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution10.java) <br>
+ - ✔ 11. [가운데 글자 가져오기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution11.java) <br>
+ - ✔ 12. [같은 숫자는 싫어](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution12.java) <br>
+- ✔ 13. [문자열 내 마음대로 정렬하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution13.java) <br>
+- ✔ 14. [문자열 내 p와 y의 개수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution14.java) <br>
