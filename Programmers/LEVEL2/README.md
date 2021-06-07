@@ -11,8 +11,8 @@
  - 7.[타켓넘버](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/7.py)
  - 8.[피보나치 수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/8.py)
  - 9.[H-Index](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/9.py)
- - 10.[주식 가격]
- - 11.[124 나라의 숫자]
+ - 10.[주식 가격](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/10.py)
+ - 11.[124 나라의 숫자](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/11.py)
  - 12.[더 맵게]
  - 13.[스킬트리]
  - 14.[최댓값과 최솟값]
