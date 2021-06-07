@@ -67,5 +67,16 @@
  - ✔ 10. [서울에서 김서방 찾기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution10.java) <br>
  - ✔ 11. [가운데 글자 가져오기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution11.java) <br>
  - ✔ 12. [같은 숫자는 싫어](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution12.java) <br>
-- ✔ 13. [문자열 내 마음대로 정렬하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution13.java) <br>
-- ✔ 14. [문자열 내 p와 y의 개수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution14.java) <br>
+ - ✔ 13. [문자열 내 마음대로 정렬하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution13.java) <br>
+ - ✔ 14. [문자열 내 p와 y의 개수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution14.java) <br>
+ - ✔ 15. [문자열을 정수로 바꾸기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution15.java) <br>
+ - ✔ 16. [문자열 다루기 기본](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution16.java) <br>
+ - ✔ 17. [이상한 문자 만들기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution17.java) <br>
+ - ✔ 18. [x만큼 간격이 있는 n개의 숫자](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution18.java) <br>
+ - ✔ 19. [핸드폰 번호 가리기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution19.java) <br>
+ - ✔ 20. [직사각형 별찍기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution20.java) <br>
+- ✔ 21. [정수 내림차순으로 배치하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution21.java) <br>
+ - ✔ 22. [자연수 뒤집어 배열로 만들기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution22.java) <br>
+ - ✔ 23. [하샤드 수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution23.java) <br>
+ - ✔ 24. [정수 제곱근 판별](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution24.java) <br>
+ - ✔ 25. [소수 찾기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution25.java) <br>
