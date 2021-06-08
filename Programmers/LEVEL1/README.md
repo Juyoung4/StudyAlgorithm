@@ -43,13 +43,13 @@
  - ✔ 39. [2019 카카오 개발자 겨울 인턴십 크레인 인형뽑기 게임](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/39.py) <br>
  - ✔ 40. [2019 KAKAO BLIND RECRUITMENT 실패율](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/40.py) <br>
  - ✔ 41. [2021 KAKAO BLIND RECRUITMENT 신규아이디 추천](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/41.py) <br>
-  - ✔ 42. [월간 코드 챌린지 시즌1 내적](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/42.py) <br>
-  - ✔ 43. [찾아라 프로그래밍 마에스터 폰켓몬](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/43.py) <br>
-  - ✔ 44. [월간 코드 챌린지 시즌2 음양 더하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/44.py) <br>
-  - ✔ 45. [2021 Dev-Matching 로또의 최고 순위와 최저 순위](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/45.py) <br>
-  - ✔ 46. [Summer/Winter Coding 소수 만들기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/46.py) <br>
-  - ✔ 47. [월간 코드 챌린지 시즌1 3진법 뒤집기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/47.py) <br>
-  - ✔ 48. [월간 코드 챌린지 시즌1 두 개 뽑아서 더하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/48.py) <br> 
+ - ✔ 42. [월간 코드 챌린지 시즌1 내적](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/42.py) <br>
+ - ✔ 43. [찾아라 프로그래밍 마에스터 폰켓몬](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/43.py) <br>
+ - ✔ 44. [월간 코드 챌린지 시즌2 음양 더하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/44.py) <br>
+ - ✔ 45. [2021 Dev-Matching 로또의 최고 순위와 최저 순위](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/45.py) <br>
+ - ✔ 46. [Summer/Winter Coding 소수 만들기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/46.py) <br>
+ - ✔ 47. [월간 코드 챌린지 시즌1 3진법 뒤집기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/47.py) <br>
+ - ✔ 48. [월간 코드 챌린지 시즌1 두 개 뽑아서 더하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/python/48.py) <br> 
 
   
 
@@ -85,8 +85,17 @@
  - ✔ 28. [행렬의 덧셈](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution28.java) <br>
  - ✔ 29. [2016년](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution29.java) <br>
  - ✔ 30. [시저 암호](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution30.java) <br>
-- ✔ 31. [k번째 수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution31.java) <br>
+ - ✔ 31. [k번째 수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution31.java) <br>
  - ✔ 32. [완주하지 못한 선수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution32.java) <br>
  - ✔ 33. [모의고사](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution33.java) <br>
  - ✔ 34. [체육복](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution34.java) <br>
  - ✔ 35. [예산](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution35.java) <br>
+ - ✔ 36. [(1차)비밀지도](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution36.java) <br>
+ - ✔ 37. [(2020 카카오 인턴)키패드 누르기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution37.java) <br>
+ - ✔ 38. [2018 KAKAO BLIND RECRUITMENT [1차] 다트 게임](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution38.java) <br>
+ - ✔ 39. [2019 카카오 개발자 겨울 인턴십 크레인 인형뽑기 게임](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution39.java) <br>
+ - ✔ 40. [2019 KAKAO BLIND RECRUITMENT 실패율](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution40.java) <br>
+ - ✔ 41. [2021 KAKAO BLIND RECRUITMENT 신규아이디 추천](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution41.java) <br>
+ - ✔ 42. [월간 코드 챌린지 시즌1 내적](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution42.java) <br>
+ - ✔ 43. [찾아라 프로그래밍 마에스터 폰켓몬](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution43.javay) <br>
+ - ✔ 44. [월간 코드 챌린지 시즌2 음양 더하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution44.java) <br>
