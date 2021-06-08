@@ -2,17 +2,17 @@
 
 ### Python <br>
 
- - 1.[전화번호 목록](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/1.py)
- - 2.[위장](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/2.py)
- - 3.[기능 개발](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/3.py)
- - 4.[프린터](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/4.py)
- - 5.[가장 큰 수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/5.py)
- - 6.[다리를 지나는 트럭](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/6.py)
- - 7.[타켓넘버](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/7.py)
- - 8.[피보나치 수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/8.py)
- - 9.[H-Index](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/9.py)
- - 10.[주식 가격](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/10.py)
- - 11.[124 나라의 숫자](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/11.py)
+ - 1.[전화번호 목록](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/1.py)
+ - 2.[위장](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/2.py)
+ - 3.[기능 개발](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/3.py)
+ - 4.[프린터](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/4.py)
+ - 5.[가장 큰 수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/5.py)
+ - 6.[다리를 지나는 트럭](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/6.py)
+ - 7.[타켓넘버](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/7.py)
+ - 8.[피보나치 수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/8.py)
+ - 9.[H-Index](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/9.py)
+ - 10.[주식 가격](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/10.py)
+ - 11.[124 나라의 숫자](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/11.py)
  - 12.[더 맵게]
  - 13.[스킬트리]
  - 14.[최댓값과 최솟값]
@@ -34,10 +34,10 @@
  - 29.[가장 큰 정사각형 찾기]
  - 30.[땅따먹기]
  - 31.[점프와 순간 이동]
- - 32.[(2017 팁스타운) 짝지어 제거하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/32.py)
+ - 32.[(2017 팁스타운) 짝지어 제거하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/32.py)
  - 33.[(2017 팁스타운) 예상 대진표]
- - 34.[(찾아라 프로그래밍 마에스터) 폰켓몬](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/34.py)
- - 35.[(2020 KAKAO BLIND RECRUITMENT) 문자열 압축](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/35.py)
+ - 34.[(찾아라 프로그래밍 마에스터) 폰켓몬](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/34.py)
+ - 35.[(2020 KAKAO BLIND RECRUITMENT) 문자열 압축](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/35.py)
  - 36.[(2020 KAKAO BLIND RECRUITMENT) 괄호 변환]
  - 37.[(2019 KAKAO BLIND RECRUITMENT) 오픈채팅방]
  - 38.[(2019 KAKAO BLIND RECRUITMENT) 후보키]
@@ -46,10 +46,10 @@
  - 42.[(2018 KAKAO BLIND RECRUITMENT) [1차]뉴스 클러스터링]
  - 43.[(2018 KAKAO BLIND RECRUITMENT) [1차] 프렌즈4블록]
  - 44.[(2018 KAKAO BLIND RECRUITMENT) [3차] n진수 게임]
- - 45.[(2018 KAKAO BLIND RECRUITMENT) [3차] 압축](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/45.py)
- - 46.[(2018 KAKAO BLIND RECRUITMENT) [3차]파일명 정렬](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/46.py)
- - 47.[(2018 KAKAO BLIND RECRUITMENT) [3차] 방금그곡](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/47.py)
- - 48.[(카카오 인턴쉽(2020)) 수식 최대화](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/48.py)
- - 49.[(2021 Dev-Matching 웹 백엔드) 행렬 테두리 회전하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/49.py)
- - 50.[(2021 KAKAO BLIND RECRUITMENT) 메뉴 리뉴얼](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/50.py)
+ - 45.[(2018 KAKAO BLIND RECRUITMENT) [3차] 압축](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/45.py)
+ - 46.[(2018 KAKAO BLIND RECRUITMENT) [3차]파일명 정렬](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/46.py)
+ - 47.[(2018 KAKAO BLIND RECRUITMENT) [3차] 방금그곡](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/47.py)
+ - 48.[(카카오 인턴쉽(2020)) 수식 최대화](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/48.py)
+ - 49.[(2021 Dev-Matching 웹 백엔드) 행렬 테두리 회전하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/49.py)
+ - 50.[(2021 KAKAO BLIND RECRUITMENT) 메뉴 리뉴얼](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/50.py)
  - 51.[(2021 Dev-Matching 웹 백엔드) 수식 최대화]
