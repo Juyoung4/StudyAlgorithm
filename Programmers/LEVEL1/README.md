@@ -87,3 +87,6 @@
  - ✔ 30. [시저 암호](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution30.java) <br>
 - ✔ 31. [k번째 수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution31.java) <br>
  - ✔ 32. [완주하지 못한 선수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution32.java) <br>
+ - ✔ 33. [모의고사](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution33.java) <br>
+ - ✔ 34. [체육복](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution34.java) <br>
+ - ✔ 35. [예산](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution35.java) <br>
