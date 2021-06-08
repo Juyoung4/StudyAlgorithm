@@ -80,3 +80,10 @@
  - ✔ 23. [하샤드 수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution23.java) <br>
  - ✔ 24. [정수 제곱근 판별](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution24.java) <br>
  - ✔ 25. [소수 찾기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution25.java) <br>
+ - ✔ 26. [최대공약수와 최소공배수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution26.java) <br>
+ - ✔ 27. [콜라츠 추측](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution27.java) <br>
+ - ✔ 28. [행렬의 덧셈](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution28.java) <br>
+ - ✔ 29. [2016년](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution29.java) <br>
+ - ✔ 30. [시저 암호](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution30.java) <br>
+- ✔ 31. [k번째 수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution31.java) <br>
+ - ✔ 32. [완주하지 못한 선수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL1/java/solution32.java) <br>
