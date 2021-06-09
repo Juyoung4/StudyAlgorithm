@@ -1,3 +1,6 @@
+package Programmers.LEVEL1.java;
+import java.util.*;
+
 public class solution29 {
     public static void main(String[] args) {
         solution29 two = new solution29();

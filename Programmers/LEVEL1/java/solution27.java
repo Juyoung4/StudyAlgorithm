@@ -1,3 +1,5 @@
+package Programmers.LEVEL1.java;
+import java.util.*;
 public class solution27 {
     public int solution(long num) { //long으로 타입 변경 -> 오버플로우 발생
         int answer = -1;

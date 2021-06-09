@@ -1,3 +1,6 @@
+package Programmers.LEVEL1.java;
+import java.util.*;
+
 public class solution26 {
     public int gcd(int a, int b){
         int temp = 0;

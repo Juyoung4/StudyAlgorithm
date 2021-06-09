@@ -1,3 +1,5 @@
+package Programmers.LEVEL1.java;
+import java.util.*;
 import java.util.Scanner;
 
 public class solution20 {

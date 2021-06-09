@@ -1,3 +1,6 @@
+package Programmers.LEVEL1.java;
+import java.util.*;
+
 public class solution30 {
     public String solution(String s, int n) {
         String answer = "";

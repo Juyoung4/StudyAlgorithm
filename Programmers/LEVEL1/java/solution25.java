@@ -1,3 +1,6 @@
+package Programmers.LEVEL1.java;
+import java.util.*;
+
 import java.lang.Math;
 
 public class solution25 {

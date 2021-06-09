@@ -1,3 +1,6 @@
+package Programmers.LEVEL1.java;
+import java.util.*;
+
 public class solution41 {
     public String solution(String new_id) {
         String answer = "";

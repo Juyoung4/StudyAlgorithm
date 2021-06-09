@@ -1,3 +1,6 @@
+package Programmers.LEVEL1.java;
+import java.util.*;
+
 public class solution34 {
     public int solution(int n, int[] lost, int[] reserve) {
         int answer = 0;

@@ -1,4 +1,7 @@
 //같은 숫자는 싫어
+package Programmers.LEVEL1.java;
+import java.util.*;
+
 public class solution12 {
     public int[] solution(int []arr) {
         int[] answer = {};

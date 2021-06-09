@@ -1,4 +1,4 @@
-package level1;
+package Programmers.LEVEL1.java;
 
 public class solution5 {
     public String solution(int num) {

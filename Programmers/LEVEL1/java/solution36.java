@@ -1,4 +1,8 @@
-public class solution37 {
+
+package Programmers.LEVEL1.java;
+import java.util.*;
+
+public class solution36 {
     public String[] solution(int n, int[] arr1, int[] arr2) {
         String[] answer = new String[n];
         String temp;

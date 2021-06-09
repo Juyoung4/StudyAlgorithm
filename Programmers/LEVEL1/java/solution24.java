@@ -1,3 +1,6 @@
+package Programmers.LEVEL1.java;
+import java.util.*;
+
 public class solution24 {
     public long solution(long n) {
         if (n == (long)Math.pow((long)Math.sqrt(n), 2))

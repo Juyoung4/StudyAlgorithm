@@ -1,4 +1,4 @@
-package level1;
+package Programmers.LEVEL1.java;
 
 class Solution1 {
     public long solution(int a, int b) {

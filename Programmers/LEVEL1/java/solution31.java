@@ -1,3 +1,6 @@
+package Programmers.LEVEL1.java;
+import java.util.*;
+
 public class solution31 {
     public int[] solution(int[] array, int[][] commands) {
         int[] answer = new int[commands.length];

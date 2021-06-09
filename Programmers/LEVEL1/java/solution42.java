@@ -1,3 +1,6 @@
+package Programmers.LEVEL1.java;
+import java.util.*;
+
 public class solution42 {
     public int solution(int[] a, int[] b) {
         int answer = 0;

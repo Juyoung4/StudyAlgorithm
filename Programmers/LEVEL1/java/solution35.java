@@ -1,3 +1,6 @@
+package Programmers.LEVEL1.java;
+import java.util.*;
+
 public class solution35 {
     public int solution(int[] d, int budget) {
         int answer = 0;

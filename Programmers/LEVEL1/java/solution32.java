@@ -1,3 +1,6 @@
+package Programmers.LEVEL1.java;
+import java.util.*;
+
 public class solution32 {
     public String solution(String[] participant, String[] completion) {
         Arrays.sort(participant);

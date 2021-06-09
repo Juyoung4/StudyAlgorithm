@@ -1,3 +1,6 @@
+package Programmers.LEVEL1.java;
+import java.util.*;
+
 public class solution21 {
     public long solution(long n) {
         //문자열은 sort가 없음!
