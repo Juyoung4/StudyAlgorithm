@@ -14,14 +14,14 @@
  - 10.[주식 가격](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/10.py)
  - 11.[124 나라의 숫자](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/11.py)
  - 12.[더 맵게](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/12.py)
- - 13.[스킬트리]
- - 14.[최댓값과 최솟값]
- - 15.[소수 찾기]
- - 16.[최솟값 만들기]
- - 17.[다음 큰 숫자]
- - 18.[올바른 괄호]
- - 19.[숫자의 표현]
- - 20.[n개의 최소공배수]
+ - 13.[스킬트리](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/13.py)
+ - 14.[최댓값과 최솟값](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/14.py)
+ - 15.[소수 찾기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/15.py)
+ - 16.[최솟값 만들기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/16.py)
+ - 17.[다음 큰 숫자](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/17.py)
+ - 18.[올바른 괄호](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/18.py)
+ - 19.[숫자의 표현](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/19.py)
+ - 20.[n개의 최소공배수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/20.py)
  - 21.[큰 수 만들기]
  - 22.[행렬의 곱셈]
  - 22.[구명보트]
