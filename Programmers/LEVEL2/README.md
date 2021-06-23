@@ -22,17 +22,16 @@
  - 18.[올바른 괄호](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/18.py)
  - 19.[숫자의 표현](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/19.py)
  - 20.[n개의 최소공배수](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/20.py)
- - 21.[큰 수 만들기]
- - 22.[행렬의 곱셈]
- - 22.[구명보트]
- - 23.[라면공장]
- - 24.[JadenCase 문자열 만들기]
- - 25.[멀쩡한 사각형]
- - 26.[영어 끝말잇기]
- - 27.[조이스틱]
- - 28.[소수 만들기]
+ - 21.[큰 수 만들기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/21.py)
+ - 22.[행렬의 곱셈](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/22.py)
+ - 23.[구명보트](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/23.py)
+ - 24.[JadenCase 문자열 만들기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/24.py)
+ - 25.[조이스틱]
+ - 26.[땅따먹기]
+ - 27.[멀쩡한 사각형]
+ - 28.[소수 만들기](x)
  - 29.[가장 큰 정사각형 찾기]
- - 30.[땅따먹기]
+ - 30.[영어 끝말잇기]
  - 31.[점프와 순간 이동]
  - 32.[(2017 팁스타운) 짝지어 제거하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/32.py)
  - 33.[(2017 팁스타운) 예상 대진표]
@@ -53,7 +52,6 @@
  - 49.[(2021 Dev-Matching 웹 백엔드) 행렬 테두리 회전하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/49.py)
  - 50.[(2021 KAKAO BLIND RECRUITMENT) 메뉴 리뉴얼](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/50.py)
  - 51.[(2021 Dev-Matching 웹 백엔드) 수식 최대화]
-
 
 ### JAVA <br>
  - 1.[전화번호 목록](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/java/solution1.java)
