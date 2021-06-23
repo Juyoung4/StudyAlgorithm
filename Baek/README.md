@@ -44,13 +44,3 @@
 |카드 놓기|[5568](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/sin/5568.py)|✅|
 
 </details>
-
-
-<details>
-<summary>DP 기출문제</summary>
-
-|문제|문제 번호 및 링크|CHECK1|
-|:--:|:--:|:--:|
-|암호만들기|[2011](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/DP/2011.py)|✅|
-
-</details>
