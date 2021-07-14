@@ -41,17 +41,26 @@
  - 37.[(2019 KAKAO BLIND RECRUITMENT) 오픈채팅방]
  - 38.[(2019 KAKAO BLIND RECRUITMENT) 후보키]
  - 40.[(2019 카카오 개발자 겨울 인턴쉽) 튜플]
- - 41.[(2018 KAKAO BLIND RECRUITMENT) [1차]캐시]
- - 42.[(2018 KAKAO BLIND RECRUITMENT) [1차]뉴스 클러스터링]
+ - 41.[(2018 KAKAO BLIND RECRUITMENT) [1차] 캐시](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/41.py)
+ - 42.[(2018 KAKAO BLIND RECRUITMENT) [1차] 뉴스 클러스터링]
  - 43.[(2018 KAKAO BLIND RECRUITMENT) [1차] 프렌즈4블록]
  - 44.[(2018 KAKAO BLIND RECRUITMENT) [3차] n진수 게임]
  - 45.[(2018 KAKAO BLIND RECRUITMENT) [3차] 압축](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/45.py)
- - 46.[(2018 KAKAO BLIND RECRUITMENT) [3차]파일명 정렬](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/46.py)
+ - 46.[(2018 KAKAO BLIND RECRUITMENT) [3차] 파일명 정렬](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/46.py)
  - 47.[(2018 KAKAO BLIND RECRUITMENT) [3차] 방금그곡](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/47.py)
  - 48.[(카카오 인턴쉽(2020)) 수식 최대화](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/48.py)
  - 49.[(2021 Dev-Matching 웹 백엔드) 행렬 테두리 회전하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/49.py)
  - 50.[(2021 KAKAO BLIND RECRUITMENT) 메뉴 리뉴얼](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/50.py)
  - 51.[(2021 Dev-Matching 웹 백엔드) 수식 최대화]
+ - 52.[(월간 코드 챌린지 시즌1) 쿼드압축 후 개수 세기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/52.py)
+ - 53.[(월간 코드 챌린지 시즌1) 이진 변환 반복하기]
+ - 54.[(월간 코드 챌린지 시즌1) 삼각 달팽이]
+ - 55.[(월간 코드 챌린지 시즌2) 괄호 회전하기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/54.py)
+ - 56.[(2021 KAKAO BLIND RECRUITMENT) 순위 검색]
+ - 57.[배달]
+ - 58.[방문 길이]
+ - 59.[[(찾아라 프로그래밍 마에스터) 게임 맵 최단 거리]
+ - 60.[(2021 카카오 채용연계형 인턴십) 거리두기 확인하기]
 
 ### JAVA <br>
  - 1.[전화번호 목록](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/java/solution1.java)
