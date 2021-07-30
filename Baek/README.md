@@ -54,3 +54,14 @@
 |수열의점수|[2036](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/DP/2036.py)|✅|
 
 </details>
+
+<details>
+<summary>Hyun</summary>
+
+|문제|문제 번호 및 링크|CHECK1|
+|:--:|:--:|:--:|
+|미로 탐색|[2178](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/Hyun/2178.py)|✅|
+|숨바꼭질|[1697](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/Hyun/1697.py)|✅|
+|문서검색|[1543](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Baek/Hyun/1543.py)|✅|
+
+</details>
