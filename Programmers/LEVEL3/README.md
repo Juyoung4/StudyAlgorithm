@@ -9,4 +9,5 @@
 - 5.[입국심사](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL3/5.py)
 - 6.[경주로 건설](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL3/6.py)
 - 7.[가장 먼 노드](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL3/7.py)
-- 8.[표 편집](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL3/7.py)
+- 8.[표 편집](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL3/8.py)
+- 9.[네트워크](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL3/9.py)
