@@ -27,7 +27,7 @@
  - 23.[구명보트](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/23.py)
  - 24.[JadenCase 문자열 만들기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/24.py)
  - 25.[조이스틱]
- - 26.[땅따먹기]
+ - 26.[땅따먹기](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/26.py)
  - 27.[멀쩡한 사각형]
  - 28.[소수 만들기](x)
  - 29.[가장 큰 정사각형 찾기]
@@ -40,9 +40,9 @@
  - 36.[(2020 KAKAO BLIND RECRUITMENT) 괄호 변환]
  - 37.[(2019 KAKAO BLIND RECRUITMENT) 오픈채팅방]
  - 38.[(2019 KAKAO BLIND RECRUITMENT) 후보키]
- - 40.[(2019 카카오 개발자 겨울 인턴쉽) 튜플]
+ - 40.[(2019 카카오 개발자 겨울 인턴쉽) 튜플](ttps://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/40.py)
  - 41.[(2018 KAKAO BLIND RECRUITMENT) [1차] 캐시](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/41.py)
- - 42.[(2018 KAKAO BLIND RECRUITMENT) [1차] 뉴스 클러스터링]
+ - 42.[(2018 KAKAO BLIND RECRUITMENT) [1차] 뉴스 클러스터링](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/42.py)
  - 43.[(2018 KAKAO BLIND RECRUITMENT) [1차] 프렌즈4블록]
  - 44.[(2018 KAKAO BLIND RECRUITMENT) [3차] n진수 게임]
  - 45.[(2018 KAKAO BLIND RECRUITMENT) [3차] 압축](https://github.com/Juyoung4/StudyAlgorithm/blob/master/Programmers/LEVEL2/python/45.py)
